@@ -1,13 +1,14 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+[![MasterHead]([https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966))]()
 
 <h1 align="center">Hi 👋, I'm MOHAMMED AMEEN PATHAYIL</h1>
-<h3 align="center">A React.js Intern from INDIA</h3>
+<h2 align="center"font-style="italic">All is Well ✨,Never Give UP 💪,Better days are coming...</h2>
+<h3 align="center">A Full Stack Developer from INDIA</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-- 🔭 I’m currently doing Web Development internship at  [Cabin4 Professionals](
+- 🔭 I’m currently Working at  [Cabin4 Professionals](
 https://www.cabin4.pro)
 
-- 🌱 I’m currently learning **javaScript,React.js**
+- 🌱 An active leaner
 
 - 👯 I’m looking for more oppertunities to show my skills
 
